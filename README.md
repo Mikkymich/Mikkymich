@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mikkymich
 - 👀 I’m interested in ...Data,Web dev
-- 🌱 I’m currently learning ...Data science 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...cloud engineering
+- 💞️ I’m looking to collaborate on data science project and solvereal-lifee issues...
 - 📫 How to reach me ...07p85887731
 
 <!---
